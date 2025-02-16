@@ -42,3 +42,7 @@ Key Features
 ✔ Scalable (can handle many clients)
 ✔ Synchronized communication using sockets
 
+OUTPUT
+
+https://github.com/user-attachments/assets/93c9fb01-7330-4d47-8add-9e0a7a59b7c8
+
